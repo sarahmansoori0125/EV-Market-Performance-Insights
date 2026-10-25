@@ -54,3 +54,19 @@ The Tableau dashboard has been created, and the dataset and dashboard screenshot
 **Sarah Mansoori**
 
 B.Tech in Computer Science and Engineering
+
+## Python Data Analysis
+
+Python and Pandas were used to analyze the electric vehicle dataset.
+
+The analysis covers:
+- Dataset size and column information
+- Missing values
+- Manufacturer record counts
+- Average battery capacity
+- Average motor power
+- Descriptive statistics exported to a CSV file
+
+**Python Script:** `ev_analysis.py`
+
+**Analysis Output:** `ev_analysis_summary.csv`
