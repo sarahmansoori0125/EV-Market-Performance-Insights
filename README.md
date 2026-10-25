@@ -64,7 +64,7 @@ The analysis covers:
 - Missing values
 - Manufacturer record counts
 - Average battery capacity
-- Average motor power
+- Average system power
 - Descriptive statistics exported to a CSV file
 
 **Python Script:** `ev_analysis.py`
